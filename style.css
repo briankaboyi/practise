@@ -1,18 +1,17 @@
-body{
-    padding: 0px;
-    margin: 0px;
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
 }
-body{
-    display: flex;
-    flex-direction: column;
-    width:100px;
-    margin: 100px auto;
-    /* align-items: center; */
-    justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
-    
+body {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  margin: 100px auto;
+  /* align-items: center; */
+  justify-content: center;
 }
-.main-button{
+.main-button {
   height: 20px;
   border: none;
   background-color: rgb(138, 129, 129);

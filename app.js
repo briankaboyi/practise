@@ -6,7 +6,7 @@ mainButton.addEventListener('click', function (e) {
   e.preventDefault();
   console.log('asii');
   const version = document.createElement('p');
-  version.innerText = 'version 1';
+  version.innerText = 'version 2';
 
   mainComp.appendChild(version);
 });
